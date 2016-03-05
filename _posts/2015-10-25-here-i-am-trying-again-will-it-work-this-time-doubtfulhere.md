@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-05T00:05:05.494Z'
-dateModified: '2015-11-25T01:21:19.416Z'
-title: "I HVE HAD THE SHITTIEST LUCK WIHT THE GRID I HAVE HOPE BUT IT'S WANING... REALLY IT SUCKS FOR ME SO FAR. WE'LL SEE."
+datePublished: '2016-03-05T00:07:21.410Z'
+dateModified: '2016-03-05T00:07:16.476Z'
+title: "I HaVE HAD THE SHITTIEST LUCK WIHT THE GRID I HAVE HOPE BUT IT'S WANING... REALLY IT SUCKS FOR ME SO FAR. WE'LL SEE."
 sourcePath: _posts/2015-10-25-here-i-am-trying-again-will-it-work-this-time-doubtfulhere.md
 published: true
 author: []
@@ -24,4 +24,4 @@ _type: Article
 ---
 # 
 
-* I HVE HAD THE SHITTIEST LUCK WIHT THE GRID I HAVE HOPE BUT IT'S WANING... REALLY IT SUCKS FOR ME SO FAR. WE'LL SEE.
+* I HaVE HAD THE SHITTIEST LUCK WIHT THE GRID I HAVE HOPE BUT IT'S WANING... REALLY IT SUCKS FOR ME SO FAR. WE'LL SEE.
